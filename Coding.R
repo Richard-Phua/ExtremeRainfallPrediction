@@ -1,4 +1,4 @@
-# Installing Packages (For Quantil Regression)
+# Installing Packages (For Quantile Regression)
 install.packages("quantreg")
 install.packages("ggplot2")
 install.packages("caret")
